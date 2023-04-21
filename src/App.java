@@ -40,12 +40,6 @@ class App {
 
         }
         }
-        
-        
-        
-    
-
-
   return finalRes;
     }
 }
